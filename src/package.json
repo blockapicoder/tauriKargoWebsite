@@ -1,0 +1,19 @@
+{
+  "name": "tauri-kargo-website",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tauri-kargo-tools": "^0.1.5"
+  },
+  "bundledDependencies": [
+    "tauri-kargo-tools"
+  ]
+}
